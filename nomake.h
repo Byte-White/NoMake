@@ -220,9 +220,8 @@ void nomake_compile(nomake_builder* b)
 	}
 }
 
+#endif
 #ifdef __cplusplus
 } /* extern "C" */
 #endif
-#endif
-
 #endif // !NOMAKE_H_
