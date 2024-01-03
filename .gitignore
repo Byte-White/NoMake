@@ -1,3 +1,4 @@
 #files
 *.exe
 *.o
+.nombuild
